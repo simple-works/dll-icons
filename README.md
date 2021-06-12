@@ -1,15 +1,17 @@
 # ![Icon](./icon.png?raw=true) DLL Icons
 
+[![Windows](https://img.shields.io/badge/Windows-blue?logo=windows)](https://github.com/topics/windows)
+
 Some icon sets compiled into Windows [**DLL**](https://en.wikipedia.org/wiki/Dynamic-link_library) resource files.
 
 ![Screenshot](./screenshot.gif?raw=true)
 
 ## :floppy_disk: Download
-| Icon Set                     | DLL File                                                       |
-|:-----------------------------|:---------------------------------------------------------------|
-| Small and Flat Icons         | [small-flat-icons.dll](./icons/small-flat-icons.dll)           |
-| Comic Publisher Folder Icons | [comic-publisher-icons.dll](./icons/comic-publisher-icons.dll) |
-| Various Icons                | [various-icons.dll](./icons/various-icons.dll)                 |
+| Icon Set                     | DLL File                                                                |
+|:-----------------------------|:------------------------------------------------------------------------|
+| Small and Flat Icons         | [small-flat-icons.dll](./icons/small-flat-icons.dll?raw=true)           |
+| Comic Publisher Folder Icons | [comic-publisher-icons.dll](./icons/comic-publisher-icons.dll?raw=true) |
+| Various Icons                | [various-icons.dll](./icons/various-icons.dll?raw=true)                 |
 
 ## :rocket: Making
 - The DLL files are made using [**Visual Studio**](https://github.com/microsoft) 2010.
